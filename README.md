@@ -12,6 +12,6 @@ Step #3: Apply some form of Optical Character Recognition (OCR) to recognize the
 
 # Preview
 
-![Image1]()
+![Image1](https://github.com/Anuragtsl/OpenCV-Number_Plate_Detection/blob/main/images/1.png)
 
-![Image2]()
+![Image2](https://github.com/Anuragtsl/OpenCV-Number_Plate_Detection/blob/main/images/2.png)
