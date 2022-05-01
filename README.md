@@ -2,6 +2,8 @@
 
 In this project, I use OpenCV in python to detect Number plate of vehicles.
 
+***Follow [code](https://github.com/Anuragtsl/OpenCV-Number_Plate_Detection/blob/main/main.py) for more!***
+
 # Workflow
 
 Step #1: Detect and localize a license plate in an input image/frame.
